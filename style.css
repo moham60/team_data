@@ -1,0 +1,16 @@
+.container  tr td{
+    padding:25px;
+}
+.container tr td{
+    
+    border :2px solid #000000;
+   
+}
+.container thead tr td
+{
+    font-weight: bold;
+    font-size: 25px;
+}
+.container tbody tr td{
+    font-size: 15px;
+}
